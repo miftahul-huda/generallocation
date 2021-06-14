@@ -1,0 +1,2 @@
+# generallocation
+Location master
