@@ -1,0 +1,8 @@
+[
+    { "path" :  "/province", "routeSetter"  : "./routes/defaultroutersetter", "logic":  "./modules/logic/provincelogic" },
+    { "path" :  "/regency", "routeSetter"  : "./routes/regencyroutersetter", "logic":  "./modules/logic/regencylogic" },
+    { "path" :  "/district", "routeSetter"  : "./routes/districtroutersetter", "logic":  "./modules/logic/districtlogic" },
+    { "path" :  "/village", "routeSetter"  : "./routes/villageroutersetter", "logic":  "./modules/logic/villagelogic" },
+    { "path" :  "/branch", "routeSetter"  : "./routes/defaultroutersetter", "logic":  "./modules/logic/branchlogic" },
+    { "path" :  "/region", "routeSetter"  : "./routes/regionroutersetter", "logic":  "./modules/logic/regionlogic" }
+]
